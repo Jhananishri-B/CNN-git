@@ -1,3 +1,4 @@
+PREDICTION LINK : http://localhost:8501/
 # CNN-TASK
 
 A small image classification project using a convolutional neural network (CNN). This repository contains code, dataset splits, and utilities used to train and evaluate a CNN model on a custom dataset.
